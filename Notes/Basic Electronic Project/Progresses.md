@@ -1,0 +1,6 @@
+- I have a bit knowledge about the OP amp.
+- OP Amp pins:
+	- `VCC` take positive voltage source
+	- `GND` release the negative voltage source
+	- `Output` 
+- But i still don't know yet about how to calculate the value of each component.
